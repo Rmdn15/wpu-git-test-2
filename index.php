@@ -9,6 +9,7 @@
     <h3>Coba Index php</h3>
     <ul>
         <li>test 1 index</li>
+        <p>Tambah 1 Paragraph</p>
     </ul>
 </body>
 </html>
