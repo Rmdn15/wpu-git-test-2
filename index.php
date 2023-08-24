@@ -10,6 +10,8 @@
     <ul>
         <li>test 1 index</li>
         <p>Tambah 1 Paragraph</p>
+        <li>test 2 index</li>
+        <p>Tambah 2 Paragraph</p>
     </ul>
 </body>
 </html>
